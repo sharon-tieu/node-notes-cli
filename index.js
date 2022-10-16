@@ -1,3 +1,4 @@
+// requiring fs package to be able to use ci (running npm ci in the terminal)
 const fs = require('fs');
 
 // read note function
